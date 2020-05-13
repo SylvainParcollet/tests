@@ -12,7 +12,7 @@
         {
 			"kind": "main",
 			"tag": "com-sap-sample-helloworld1",
-            "url": "https://github.com/SylvainParcollet/tests/webcpnt.js",
+            "url": "https://sylvainparcollet.github.io/tests/webcpnt.js",
             "integrity": "",
             "ignoreIntegrity" : true
         }
